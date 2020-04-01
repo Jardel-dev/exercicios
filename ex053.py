@@ -1,0 +1,1 @@
+#ler o primeiro termo e a razão de uma progressão aritmética mostrar os 10 primeiros termos dessa progressão
